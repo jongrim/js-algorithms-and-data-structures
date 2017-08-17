@@ -1,0 +1,15 @@
+{
+  "name": "algorithms_data_structures",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests/"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jongrim/js-algorithms-and-data-structures.git",
+  "author": "Jonathan Grim <jonjongrim@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
