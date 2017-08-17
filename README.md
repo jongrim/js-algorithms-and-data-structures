@@ -3,3 +3,4 @@ As part of my study of programming and computer science, I find it useful to pra
 
 ## Sorting Algorithms
 - [Bubble sort](https://github.com/jongrim/js-algorithms-and-data-structures/blob/master/sorting/bubble_sort.js)
+- [Insertion sort](https://github.com/jongrim/js-algorithms-and-data-structures/blob/master/sorting/insertion_sort.js)
