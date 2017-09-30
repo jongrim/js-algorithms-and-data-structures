@@ -17,6 +17,6 @@ describe('Insertion sort', function() {
 
 describe('Merge sort', function() {
   it('should sort an array from least to greatest', function() {
-    assert.deepEqual([2, 3, 4], insertionSort([4, 3, 2]));
+    assert.deepEqual([2, 3, 4], mergeSort([4, 3, 2]));
   });
 });
